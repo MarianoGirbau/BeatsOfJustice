@@ -51,7 +51,11 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
+<<<<<<< HEAD
 Plugins/*/Binaries/*
+=======
+Plugins/**/Binaries/*
+>>>>>>> ccead1b53cd28416e0d4da5114e27bc77460c038
 
 # Builds
 Build/*
@@ -72,6 +76,7 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
+<<<<<<< HEAD
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
@@ -94,3 +99,9 @@ Plugins/**/Binaries/*
 Plugins/**/Intermediate/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unrealengine
+=======
+Plugins/**/Intermediate/*
+
+# Cache files for the editor to use
+DerivedDataCache/*
+>>>>>>> ccead1b53cd28416e0d4da5114e27bc77460c038
