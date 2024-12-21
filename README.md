@@ -2,7 +2,7 @@
  
 ### Descripción
 Beats of Justice es un FPS donde controlas a un talentoso beatboxer que combate el crimen en su ciudad. Debe abrirse paso a través de la morada de sus enemigos, eliminándolos antes de que ellos acaben con él. Todo esto mientras eleva su euforia musical a través del beatbox.
-Género y Público Objetivo
+### Género y Público Objetivo
 •	Género: FPS (First Person Shooter)
 •	Público Objetivo: 
 o	Edad: +13 años.
